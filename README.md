@@ -13,3 +13,12 @@ Menangkap seluruh hantu di rumahnya
 - Hantu akan menjadi pusing apabila darah telah habis.
 - Karakter utama harus membuka botol di depan hantu yang telah pusing untuk menangkap hantu.
 - Checkpoint dapat diakses dengan menaruh botol yang telah terisi dengan hantu.
+
+## Pembagian tugas :
+
+|Nama|Nim|Role|
+|---|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
