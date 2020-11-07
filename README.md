@@ -1,4 +1,4 @@
-# Ghost Hunter
+# Moro Jurig 
 
 ## Story : 
 Karakter utama adalah seorang mahasiswa ipb yang indigo , saat ini ia tinggal di rumah tua yang berhantu. Ia merasa terganggu dengan kehadiran makhluk halus di rumah itu.
@@ -18,7 +18,7 @@ Menangkap seluruh hantu di rumahnya
 
 |Nama|Nim|Role|
 |---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|Rafiandi Ammar Putra|G64180072|Game Artist/Designer|
+|Berly Setiawan|G64180044|Game Programmer/Designer|
+|Cristmas Anggario|G64180058|Game Programmer/Designer|
+|Alwi Miftahul K|G64180077|Game Artist/Designer|
