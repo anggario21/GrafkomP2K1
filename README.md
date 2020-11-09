@@ -1,7 +1,7 @@
 # Moro Jurig 
 
 ## Story : 
-Karakter utama adalah seorang mahasiswa ipb yang indigo , saat ini ia tinggal di rumah tua yang berhantu. Ia merasa terganggu dengan kehadiran makhluk halus di rumah itu.
+Karakter utama adalah seorang indigo , saat ini ia tinggal di rumah tua yang berhantu. Ia merasa terganggu dengan kehadiran makhluk halus di rumah itu.
 
 ## Goals : 
 Menangkap seluruh hantu di rumahnya
