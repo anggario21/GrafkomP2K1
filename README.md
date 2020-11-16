@@ -10,7 +10,9 @@ Mengalahkan hantu-hantu di rumahnya
 - Darah karakter akan berkurang jika terkena serangan.
 - Karakter tidak boleh kehabisan darah.
 - Karakter utama menyerang menggunakan senjata yang disediakan.
-- Hantu akan dikalahkan apabila darah telah habis.
+- Menembak hantu akan mengurangi darah hantu tsb.
+- Hantu akan dikalahkan apabila darahnya telah habis.
+- Ammo dapat di ambil/reload di dapur.
 - Game akan dimenangkan apabila telah berhasil mengalahkan BOSS
 
 ## Pembagian tugas :
