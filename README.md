@@ -4,15 +4,14 @@
 Karakter utama adalah seorang indigo , saat ini ia tinggal di rumah tua yang berhantu. Ia merasa terganggu dengan kehadiran makhluk halus di rumah itu.
 
 ## Goals : 
-Menangkap seluruh hantu di rumahnya
+Mengalahkan hantu-hantu di rumahnya
 
 ## Rules : 
-- Darah karakter akan berkurang jika terkena jumpscare.
-- Karakter tidak boleh kehabisan darah ( Pingsan ).
+- Darah karakter akan berkurang jika terkena serangan.
+- Karakter tidak boleh kehabisan darah.
 - Karakter utama menyerang menggunakan senjata yang disediakan.
-- Hantu akan menjadi pusing apabila darah telah habis.
-- Karakter utama harus membuka botol di depan hantu yang telah pusing untuk menangkap hantu.
-- Checkpoint dapat diakses dengan menaruh botol yang telah terisi dengan hantu.
+- Hantu akan dikalahkan apabila darah telah habis.
+- Game akan dimenangkan apabila telah berhasil mengalahkan BOSS
 
 ## Pembagian tugas :
 
