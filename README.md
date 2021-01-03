@@ -10,10 +10,11 @@ Mengalahkan hantu-hantu di rumahnya
 - Darah karakter akan berkurang jika terkena serangan.
 - Karakter tidak boleh kehabisan darah.
 - Karakter utama menyerang menggunakan senjata yang disediakan.
-- Menembak hantu akan mengurangi darah hantu tsb.
+- Menembak hantu akan mengurangi darah hantu.
 - Hantu akan dikalahkan apabila darahnya telah habis.
-- Ammo dapat di ambil/reload di dapur.
-- Game akan dimenangkan apabila telah berhasil mengalahkan BOSS
+- Babi tidak dapat dilukai menggunakan senjata 
+- Babi hanya dapat dikalahkan dengan cara mematikan lilin
+- Game akan dimenangkan apabila telah berhasil mengalahkan semua hantu
 
 ## Pembagian tugas :
 
@@ -23,3 +24,32 @@ Mengalahkan hantu-hantu di rumahnya
 |Berly Setiawan|G64180044|Game Programmer/Designer|
 |Cristmas Anggario|G64180058|Game Programmer/Designer|
 |Alwi Miftahul K|G64180077|Game Artist/Designer|
+
+## Control :
+1. Esc : Pause Game
+2. F : Menyalakan / Mematikan Flashlight 
+3. E : Berinteraksi dengan objek
+4. R : Reload 
+5. Spacebar : Melompat
+6. L.Shift : Berlari
+7. W,A,S,D : Menggerakkan Karakter
+
+## Teknologi yang Digunakan:
+- Blender : 3D Modelling Game Asset, dan Membuat Animasi Game 
+- Substance Painter : 3D Model Teksturing
+- Unity3d 2019.4.13f1 : Game engine (C#)
+- Unity Hub 2.4.2 : Platform Kolaborasi Projek
+- Visual Studio Code 1.52.1: C# Script Editor
+- Audio Trimmer : Platform Memangkas Soundfx
+- Figma : Membuat Game Scene
+- Github : Dokumentasi Projek
+
+## Assets :
+- Semua asset kecuali sound kami buat menggunakan Blender dan Substance Painter.
+- SoundFx : 
+  1. [Water Splash](https://www.youtube.com/watch?v=O1eU0oSACck&list=PLv6VwSX9sjmcMaakyY2UNDhng88EhDIz5&index=10)
+  2. [Gun Reload](https://www.youtube.com/watch?v=xmxof0mQI_Y)
+  3. [“Background Music Horror” by Hiroki97](Freesound.org)
+  4. ["Ambience, Creepy Wind, A.wav" by InspectorJ](Freesound.org)
+  5. [Horror Backsound](https://www.soundeffect.eu.org/2020/07/download-background-music-horror-sound.html)
+
