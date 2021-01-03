@@ -46,10 +46,5 @@ Mengalahkan hantu-hantu di rumahnya
 
 ## Assets :
 - Semua asset kecuali sound kami buat menggunakan Blender dan Substance Painter.
-- SoundFx : 
-  1. [Water Splash](https://www.youtube.com/watch?v=O1eU0oSACck&list=PLv6VwSX9sjmcMaakyY2UNDhng88EhDIz5&index=10)
-  2. [Gun Reload](https://www.youtube.com/watch?v=xmxof0mQI_Y)
-  3. [“Background Music Horror” by Hiroki97](Freesound.org)
-  4. ["Ambience, Creepy Wind, A.wav" by InspectorJ](Freesound.org)
-  5. [Horror Backsound](https://www.soundeffect.eu.org/2020/07/download-background-music-horror-sound.html)
+- SoundFx : [Water Splash](https://www.youtube.com/watch?v=O1eU0oSACck&list=PLv6VwSX9sjmcMaakyY2UNDhng88EhDIz5&index=10) ,[Gun Reload](https://www.youtube.com/watch?v=xmxof0mQI_Y),[“Background Music Horror” by Hiroki97](Freesound.org),["Ambience, Creepy Wind, A.wav" by InspectorJ](Freesound.org),[Horror Backsound](https://www.soundeffect.eu.org/2020/07/download-background-music-horror-sound.html)
 
